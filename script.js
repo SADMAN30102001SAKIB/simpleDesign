@@ -1,0 +1,1 @@
+alert("Click the box to see the effect");
